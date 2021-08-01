@@ -1,0 +1,17 @@
+@charset "ISO-8859-1";
+
+
+.mystle {
+  color: white;
+  background: red;
+  padding: 15px;
+  margin:50px;
+  position: relative;
+  top: 50px;
+  left: 150px;
+  -ms-transform: translateX(-50%) translateY(-50%);
+  -webkit-transform: translate(-50%,-50%);
+  transform: translate(-50%,-50%);
+} 
+
+
